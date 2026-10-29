@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "warpThreads": 125,
+  "weftThreads": 144,
+  "pattern": "plain",
+  "patternSettings": {},
+  "warpSett": [
+    {
+      "color": "#5e30eb",
+      "count": 2
+    },
+    {
+      "color": "#006d8f",
+      "count": 4
+    },
+    {
+      "color": "#ffaa00",
+      "count": 2
+    },
+    {
+      "color": "#00ffce",
+      "count": 2
+    },
+    {
+      "color": "#e32400",
+      "count": 8
+    },
+    {
+      "color": "#d58400",
+      "count": 16
+    },
+    {
+      "color": "#831100",
+      "count": 46
+    },
+    {
+      "color": "#2c1376",
+      "count": 30
+    },
+    {
+      "color": "#d58400",
+      "count": 16
+    }
+  ],
+  "weftSett": [
+    {
+      "color": "#791a3e",
+      "count": 12
+    }
+  ],
+  "warpRepeat": "simple",
+  "weftRepeat": "point",
+  "paletteType": "complementary",
+  "palette": [
+    "#b0e160",
+    "#682dc8",
+    "#b83ce2",
+    "#a47cda",
+    "#5116c0"
+  ],
+  "randomizerSettings": {
+    "minPaletteSize": 2,
+    "maxPaletteSize": 6,
+    "minSettEntries": 4,
+    "maxSettEntries": 10,
+    "minThreads": 4,
+    "maxThreads": 40
+  }
+}
